@@ -1,3 +1,2 @@
-# metaph.lab.github.io
 
-We're here, Start From Here!
+## We're here, Start From Here!
