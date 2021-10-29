@@ -1,4 +1,4 @@
-<img src="3.png" width="70%" hight="70%"> 
+<img src="3.png" width="20%" hight="20%"> 
 <p style="text-align: right">
  <img src="more.png">
 </p>
