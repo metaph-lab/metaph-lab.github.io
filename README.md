@@ -1,7 +1,11 @@
-<img src="3.png"><img src="more.png">
+<img src="3.png"><p style="text-align: right">
+ <img src="more.png">
+</p>
 
 <img src="1.png">
 
 <img src="2.png">
 
-<right><img src="more2.png"></right>
+<p style="text-align: right">
+ <img src="more2.png">
+</p>
