@@ -1,5 +1,4 @@
-<img src="15.png" width="15%" hight="15%">
-<a href="https://metaph-lab.github.io/infomation/"><img src="17.png"></a>
+<img src="15.png" width="15%" hight="15%"><a href="https://metaph-lab.github.io/infomation/"><img src="17.png"></a>
 
 <img src="1.png">
 
